@@ -7,11 +7,11 @@ If this is your first library, you may need to create the \libraries\ subfolder.
 For example:
 ```
 \arduino_project\
-                \your_sketch.ino
-                \libraries\
-                |.........\Thermistor\
-                |....................\Thermistor.h
-                |....................\Thermistor.cpp
+|...............\your_sketch.ino
+\libraries\
+|.........\Thermistor\
+|....................\Thermistor.h
+|....................\Thermistor.cpp
 ```
 Add the include to the top of your Sketch file.
 
