@@ -1,5 +1,6 @@
 #include <Thermistor.h>
 
+// In this example, my thermistor is attached to analog pin A0.
 Thermistor thermistor = Thermistor(A0);
 
 void setup() {
