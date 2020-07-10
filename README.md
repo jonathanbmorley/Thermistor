@@ -1,7 +1,7 @@
 # Thermistor
 This is a simple thermistor library for Arduino. I used a NTC-MF52 pull-up thermistor from Velleman (5V on an Arduino Uno).
 ## Instructions
-First, clone the library and include it in your \libraries\ folder within your Arduino project subfolders. 
+First, clone the library and include it in your \libraries\ folder within your Arduino project. 
 If this is your first library, you may need to create the \libraries\ subfolder.
 
 For example:
