@@ -27,5 +27,4 @@ In your method call, you can read the temperature using the `getTemperature()` m
 
 `double temperatureReading = myThermistor.getTemperature();`
 
-As an example:
-
+For a complete example, check out the \examples\ folder.
